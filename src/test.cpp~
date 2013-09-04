@@ -1,0 +1,11 @@
+#include<iostream>
+
+#include "../include/singleton.h"
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+  Singleton *s=
+  return 0;
+}

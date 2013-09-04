@@ -1,0 +1,9 @@
+#include<iostream>
+
+#include "timeTable.h"
+
+using namespace std;
+
+TimeTable::TimeTable(){
+  cout<<""
+}
