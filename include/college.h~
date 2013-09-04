@@ -1,0 +1,37 @@
+#ifndef _COLLEGE_H_
+#define _COLLEGE_H_
+
+class College
+{
+public:
+  College();
+
+  virtual void CreateCS();
+  virtual void CreateMath();
+  
+  virtual ~College();
+};
+
+class Whut : public College
+{
+public:
+  Whut();
+
+  void CreateCS();
+  void CreateMath();
+  
+  virtual ~Whut();
+};
+
+class Hust:public College
+{
+public:
+  Hust();
+
+  void CreateCS();
+  void CreateMath();
+  
+  virtual ~Hust();
+};
+
+#endif /* _COLLEGE_H_ */
