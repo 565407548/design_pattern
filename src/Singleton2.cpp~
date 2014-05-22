@@ -1,0 +1,11 @@
+#include"Singleton2.h"
+
+Singleton1* Singleton1::mInstance=new Singleton1;
+
+Singleton1::Singleton1(){
+  
+}
+
+Singleton1 *Singleton1::getInstance(){
+  return mInstance;
+}

@@ -1,0 +1,6 @@
+#ifndef _ABSTRACTFACTORY_H_
+#define _ABSTRACTFACTORY_H_
+
+
+
+#endif /* _ABSTRACTFACTORY_H_ */

@@ -1,0 +1,8 @@
+class Singleton2{
+private:
+  static Singleton2 *mInstance;
+  Singleton1();
+
+public:
+  static Singleton2 *getInstance();
+};

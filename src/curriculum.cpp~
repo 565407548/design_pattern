@@ -1,0 +1,5 @@
+#include<iostream>
+
+#include"curriculum.h"
+
+using namespace std;

@@ -1,0 +1,14 @@
+
+class CS
+{
+ public:
+  CS();
+  virtual ~CS();
+};
+
+class Math
+{
+ public:
+  Math();
+  virtual ~Math();
+};

@@ -1,0 +1,7 @@
+#include"Singleton1.h"
+
+Singleton1* Singleton1::mInstance=new Singleton1;
+
+Singleton1::Singleton1(){
+  
+}

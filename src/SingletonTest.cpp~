@@ -1,0 +1,11 @@
+#include<iostream>
+
+#include"Singleton.h"
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+  Singleton *instance=Singleton::getInstance();
+  return 0;
+}
