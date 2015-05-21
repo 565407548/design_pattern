@@ -1,17 +1,17 @@
-package designPattern;
+package java;
 
-public class AbstractFactoryU3Core extends AbstractFactoryCore {
+public class AbstractFactoryAndroidCore extends AbstractFactoryCore {
 
 	@Override
 	public String getName() {
 		// TODO Auto-generated method stub
-		return "U3Core";
+		return "AndroidCore";
 	}
 
 	@Override
 	public String getCss() {
 		// TODO Auto-generated method stub
-		return "U3 CSS";
+		return "Android CSS";
 	}
 
 }

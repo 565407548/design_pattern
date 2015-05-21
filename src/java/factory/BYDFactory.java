@@ -1,4 +1,4 @@
-package Factory;
+package java.factory;
 
 public class BYDFactory extends ICarFactory {
 

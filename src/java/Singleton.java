@@ -1,4 +1,4 @@
-package designPattern;
+package java;
 public class Singleton {
 	public static class Singleton0 {
 		private static class Singleton4Holder {

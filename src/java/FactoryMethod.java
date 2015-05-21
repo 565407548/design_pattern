@@ -1,4 +1,4 @@
-package designPattern;
+package java;
 
 public class FactoryMethod {
 	public static AbstractFactoryCore CreateCore(String type) {

@@ -1,4 +1,4 @@
-package Factory;
+package java.factory;
 
 /**
  * Abstract Factory: create some related objects 

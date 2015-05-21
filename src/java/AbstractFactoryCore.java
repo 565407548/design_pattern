@@ -1,4 +1,4 @@
-package designPattern;
+package java;
 
 public abstract class AbstractFactoryCore {
 	public abstract String getName();
